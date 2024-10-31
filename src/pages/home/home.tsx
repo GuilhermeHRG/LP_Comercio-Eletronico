@@ -1,9 +1,12 @@
-function Home(){
-    return(
-        <div>
-            <h1>home</h1>
-        </div>
-    );
+import React from 'react';
+import LP from '../../components/LandingPage';
+
+function Home() {
+  return (
+    
+      <LP />
+    
+  );
 }
 
 export default Home;
