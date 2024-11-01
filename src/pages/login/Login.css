@@ -1,0 +1,74 @@
+/* Login.css */
+.login-container {
+    background-color: #00244b; /* Cor de fundo principal */
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px; 
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #e9ecef; /* Cor de fundo do formulário alterada para um cinza claro */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px; 
+}
+
+.login-input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+.login-input:focus {
+    border-color: #007bff; 
+    outline: none; 
+}
+
+.login-button {
+    width: 80%;
+    padding: 10px;
+    background-color: #202224;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.login-button:hover {
+    background-color: #0056b3;
+}
+
+/* Consultas de mídia para tornar o layout responsivo */
+@media (max-width: 600px) {
+    .login-container {
+        padding: 10px; 
+    }
+
+    .login-form {
+        padding: 15px; 
+    }
+
+    .login-input,
+    .login-button {
+        font-size: 14px; 
+        padding: 8px; 
+    }
+}

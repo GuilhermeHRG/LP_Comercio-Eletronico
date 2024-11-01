@@ -1,0 +1,98 @@
+/* AdminPanel.css */
+.admin-panel {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Largura máxima do card */
+    margin: 50px auto; /* Espaço superior e inferior para centralizar verticalmente */
+  }
+  
+  .admin-panel h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .admin-panel button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 20px; /* Espaço abaixo do botão */
+  }
+  
+  .admin-panel button:hover {
+    background-color: #0056b3;
+  }
+  
+  .admin-panel form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .admin-panel form div {
+    margin-bottom: 15px;
+  }
+  
+  .admin-panel label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .admin-panel input[type="text"],
+  .admin-panel textarea,
+  .admin-panel input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box; /* Para incluir padding e borda no cálculo da largura */
+  }
+  
+  .admin-panel textarea {
+    resize: vertical; /* Permite redimensionar verticalmente */
+    height: 100px; /* Altura inicial do textarea */
+  }
+  
+  /* Estilização para telas menores */
+  @media (max-width: 768px) {
+    .admin-panel {
+      padding: 15px; /* Menos padding em telas pequenas */
+    }
+  
+    .admin-panel h2 {
+      font-size: 1.5rem; /* Tamanho da fonte menor em telas pequenas */
+    }
+  
+    .admin-panel button {
+      font-size: 14px; /* Fonte menor para o botão */
+      padding: 8px; /* Padding menor para o botão */
+    }
+  
+    .admin-panel input[type="text"],
+    .admin-panel textarea,
+    .admin-panel input[type="file"] {
+      font-size: 14px; /* Fonte menor para campos de entrada */
+      padding: 8px; /* Padding menor para campos de entrada */
+    }
+  }
+  
+  /* Estilização para telas muito pequenas */
+  @media (max-width: 480px) {
+    .admin-panel {
+      padding: 10px; /* Ajusta padding para telas muito pequenas */
+    }
+  
+    .admin-panel h2 {
+      font-size: 1.25rem; /* Tamanho da fonte menor em telas muito pequenas */
+    }
+  }
+  

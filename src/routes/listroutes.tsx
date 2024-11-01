@@ -1,5 +1,8 @@
+import React from 'react'; // Adicione esta linha
 import { createBrowserRouter } from 'react-router-dom';
 import Home from '../pages/home/home';
+import AdminPanel from '../pages/adminPanel/AdminPanel';
+import Login from '../pages/login/login';
 
 const ListRoutes = createBrowserRouter([
   {
@@ -7,8 +10,12 @@ const ListRoutes = createBrowserRouter([
     element: <Home />,
   },
   {
-    path: '/about',
-    element: <h1>About</h1>,
+    path: '/login',
+    element: <Login />,
+  },
+  {
+    path: '/admin',
+    element: <AdminPanel/>,
   },
   {
     path: '*',

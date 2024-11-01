@@ -4546,3 +4546,1123 @@ Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 19:46:50 | Mud
 Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 19:46:51 | Mudanças: 
 Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 19:46:51 | Mudanças: 
 Usuário: Desconhecido salvou o arquivo: .gitignore em 31/10/2024 19:46:51
+Usuário: Desconhecido editou o arquivo: .gitignore por 0 minutos e 58.25 segundos em 31/10/2024 19:47:15
+Usuário: Desconhecido editou o arquivo: .gitignore.git em 31/10/2024 19:47:15 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: .gitignore.git por 23 minutos e 17.70 segundos em 31/10/2024 20:10:33
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:33 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:33 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:34 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: .gitignore em 31/10/2024 20:10:35
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:40 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:40 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:40 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:40 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:41 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:41 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:41 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:41 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:42 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:42 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:42 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:43 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:43 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:43 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: .gitignore em 31/10/2024 20:10:44
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:45 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:46 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:46 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: .gitignore em 31/10/2024 20:10:47
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:59 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:10:59 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:00 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: .gitignore em 31/10/2024 20:11:00
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:01 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:02 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:02 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:03 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: .gitignore em 31/10/2024 20:11:04 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: .gitignore em 31/10/2024 20:11:04
+Usuário: Desconhecido editou o arquivo: .gitignore por 0 minutos e 35.38 segundos em 31/10/2024 20:11:08
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx em 31/10/2024 20:11:08
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js em 31/10/2024 20:11:08
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js por 0 minutos e 0.04 segundos em 31/10/2024 20:11:08
+Usuário: Desconhecido fechou o arquivo: .gitignore.git em 31/10/2024 20:11:08
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js.git em 31/10/2024 20:11:09
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js.git por 0 minutos e 12.98 segundos em 31/10/2024 20:11:22
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:22 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:22 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:22 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:23 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 31/10/2024 20:11:24
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:24 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 31/10/2024 20:11:25
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:31 | Mudanças: Linha 27
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:32 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:11:33 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 31/10/2024 20:11:33
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:25 | Mudanças: Linha 30
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 31/10/2024 20:12:26
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:26 | Mudanças: Linha 30
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:12:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 31/10/2024 20:12:27
+Usuário: Desconhecido abriu o arquivo: login.tsx em 31/10/2024 20:12:46
+Usuário: Desconhecido editou o arquivo: login.tsx por 0 minutos e 0.06 segundos em 31/10/2024 20:12:46
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js.git em 31/10/2024 20:12:46
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:12:46
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 0.84 segundos em 31/10/2024 20:12:47
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:12:47 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:12:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:12:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:12:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:12:48
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx em 31/10/2024 20:14:31
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx por 0 minutos e 0.04 segundos em 31/10/2024 20:14:31
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:14:31
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx.git em 31/10/2024 20:14:31
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx.git por 0 minutos e 2.68 segundos em 31/10/2024 20:14:34
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:14:34 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:14:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:14:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:14:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:14:35
+Usuário: Desconhecido abriu o arquivo: App.jsx em 31/10/2024 20:14:54
+Usuário: Desconhecido editou o arquivo: App.jsx por 0 minutos e 0.03 segundos em 31/10/2024 20:14:54
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx.git em 31/10/2024 20:14:54
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 31/10/2024 20:14:55
+Usuário: Desconhecido editou o arquivo: App.jsx.git por 0 minutos e 21.79 segundos em 31/10/2024 20:15:16
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:16 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:17 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: App.jsx em 31/10/2024 20:15:18
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:23 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:23 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: App.jsx em 31/10/2024 20:15:24
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:32 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:32 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 31/10/2024 20:15:33 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: App.jsx em 31/10/2024 20:15:33
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx em 31/10/2024 20:16:02
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 0 minutos e 0.06 segundos em 31/10/2024 20:16:02
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 31/10/2024 20:16:02
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 31/10/2024 20:16:02
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 2.78 segundos em 31/10/2024 20:16:05
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:16:05 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:16:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:16:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:16:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:16:06
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 0 minutos e 10.14 segundos em 31/10/2024 20:16:15
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 31/10/2024 20:16:15
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:16:15
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 2.14 segundos em 31/10/2024 20:16:18
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:16:18 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:16:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:16:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:16:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:16:19
+Usuário: Desconhecido editou o arquivo: login.tsx por 0 minutos e 38.14 segundos em 31/10/2024 20:16:56
+Usuário: Desconhecido fechou o arquivo: login.tsx em 31/10/2024 20:16:56
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:16:56
+Usuário: Desconhecido abriu o arquivo: login.jsx em 31/10/2024 20:16:56
+Usuário: Desconhecido abriu o arquivo: login.jsx.git em 31/10/2024 20:16:56
+Usuário: Desconhecido editou o arquivo: login.jsx.git por 0 minutos e 7.98 segundos em 31/10/2024 20:17:04
+Usuário: Desconhecido fechou o arquivo: login.jsx em 31/10/2024 20:17:04
+Usuário: Desconhecido fechou o arquivo: login.jsx.git em 31/10/2024 20:17:04
+Usuário: Desconhecido abriu o arquivo: login.tsx em 31/10/2024 20:17:04
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:17:05
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 26.05 segundos em 31/10/2024 20:17:31
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:31 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:17:32
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:39 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:17:40
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:41 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:42 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:17:42
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:55 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:17:56
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:17:59 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:00 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:00
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:02 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:03 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:04 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:04
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:04 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:05 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:06
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:11 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:12 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:12 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:13 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:13
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:13 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:14 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:14 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:14 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:15 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:16 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:17 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:17 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:17 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:17 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:18 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:18 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:19 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:20
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:20 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:20 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:21 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:22 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:22
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:23 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:24 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:25
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:30 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:30 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:31
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:45 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:46 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:46
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:48 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:48 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:49 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:50
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:50 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:51 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:51 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:52
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:52 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:53 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:54
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:57 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:57 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:58 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:18:59 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:18:59
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:19:56 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:19:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:19:56 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:19:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:19:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:19:57
+Usuário: Desconhecido editou o arquivo: login.tsx por 2 minutos e 29.52 segundos em 31/10/2024 20:20:00
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:20:00
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx.git em 31/10/2024 20:20:01
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx.git por 0 minutos e 34.64 segundos em 31/10/2024 20:20:35
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:35 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:36 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:20:37
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:42 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:42 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:42 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:43 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:20:43
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:44 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:20:45
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:55 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:20:56
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:58 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:20:59 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:20:59
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:22:02 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:22:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:22:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:22:04 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:22:04
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:39 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:24:40
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:43 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:43 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:24:44
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:45 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:45 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:46 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:46 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:46 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:46 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:24:47
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:52 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:52 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:52 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:53 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:53 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:54 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:54 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:55 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:55 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:24:56
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:57 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:58 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:24:58
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:59 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:24:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:00 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:25:00
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:05 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:25:06
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:10 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:25:11
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:58 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:25:59 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:25:59
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:05 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:26:06
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:06 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:06 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:07 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:07 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:07 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:07 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:08 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:26:09
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:10 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:26:11
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:14 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 31/10/2024 20:26:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 31/10/2024 20:26:15
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx por 5 minutos e 42.73 segundos em 31/10/2024 20:26:18
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx.git em 31/10/2024 20:26:18
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 31/10/2024 20:26:18
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 3.26 segundos em 31/10/2024 20:26:22
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:22 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:22 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:23 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:25
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:27 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:27 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:27 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:28 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:28
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:29 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:30 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:31
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:31 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:31 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:32
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:35 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:36
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:36 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:37
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:49 | Mudanças: Linha 17
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:26:50
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:08 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:09
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:12 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:13 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:13
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:18 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:19
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:22 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:23
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:28 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:29 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:29
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:29 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:30 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:30
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:33 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:34
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:43 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:43 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:44
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:47 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:48 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:48 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:27:49
+Usuário: Desconhecido abriu o arquivo: index.d.ts em 31/10/2024 20:27:52
+Usuário: Desconhecido editou o arquivo: index.d.ts por 0 minutos e 0.00 segundos em 31/10/2024 20:27:52
+Usuário: Desconhecido fechou o arquivo: index.d.ts em 31/10/2024 20:27:52
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:08 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:09
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:10 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:11
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:18 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:19
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:45 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:46 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:46
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:47 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:48
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:49 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 20:28:50
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 1 minutos e 41.85 segundos em 31/10/2024 20:29:50
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 31/10/2024 20:29:50
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js.git em 31/10/2024 20:29:50
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js.git por 0 minutos e 33.41 segundos em 31/10/2024 20:30:23
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:30:23 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:30:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:30:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 31/10/2024 20:30:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 31/10/2024 20:30:24
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx em 31/10/2024 20:30:34
+Usuário: Desconhecido editou o arquivo: listroutes.tsx por 0 minutos e 0.04 segundos em 31/10/2024 20:30:34
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js.git em 31/10/2024 20:30:34
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx.git em 31/10/2024 20:30:34
+Usuário: Desconhecido editou o arquivo: listroutes.tsx.git por 0 minutos e 55.95 segundos em 31/10/2024 20:31:30
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:30 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:31
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:36 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:36 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:36 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:36 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:36 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:37
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:44 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:45
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:45 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:46 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:46
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:49 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:49 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:50
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:50 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:50 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:50 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:51 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:51
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:52 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:52 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:53 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:53
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:54 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:55 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:55
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:55 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:31:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:31:56
+Usuário: Desconhecido editou o arquivo: listroutes.tsx por 0 minutos e 48.87 segundos em 31/10/2024 20:32:19
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx em 31/10/2024 20:32:19
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx.git em 31/10/2024 20:32:21
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:32:22
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 6.80 segundos em 31/10/2024 20:32:28
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:32:28
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx.git em 31/10/2024 20:32:29
+Usuário: Desconhecido editou o arquivo: listroutes.tsx.git por 0 minutos e 2.78 segundos em 31/10/2024 20:32:31
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:31 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:32 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:32 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:32 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:33 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:32:33
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:38 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:32:39
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:41 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:42 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:32:42
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:42 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:42 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:43 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:43 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:43 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:43 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:44 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:44 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:32:45
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:54 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:54 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:54 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:55 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:55 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:32:56
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:57 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 31/10/2024 20:32:58 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 31/10/2024 20:32:58
+Usuário: Desconhecido editou o arquivo: listroutes.tsx por 0 minutos e 50.14 segundos em 31/10/2024 20:33:22
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx.git em 31/10/2024 20:33:22
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:33:22
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 54.85 segundos em 31/10/2024 20:34:17
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:17 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:34:18
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:23 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:34:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:34:24
+Usuário: Desconhecido abriu o arquivo: Login.css em 31/10/2024 20:34:34
+Usuário: Desconhecido editou o arquivo: Login.css por 0 minutos e 0.04 segundos em 31/10/2024 20:34:34
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:34:34
+Usuário: Desconhecido abriu o arquivo: Login.css.git em 31/10/2024 20:34:34
+Usuário: Desconhecido editou o arquivo: Login.css.git por 0 minutos e 3.26 segundos em 31/10/2024 20:34:37
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:34:37 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:34:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:34:37 | Mudanças: Linha 40, Linha 39, Linha 38, Linha 37, Linha 36, Linha 35, Linha 34, Linha 33, Linha 32, Linha 31, Linha 30, Linha 29, Linha 28, Linha 27, Linha 26, Linha 25, Linha 24, Linha 23, Linha 22, Linha 21, Linha 20, Linha 19, Linha 18, Linha 17, Linha 16, Linha 15, Linha 14, Linha 13, Linha 12, Linha 11, Linha 10, Linha 9, Linha 8, Linha 7, Linha 6, Linha 5, Linha 4, Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:34:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:34:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:34:38
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:02 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:02 | Mudanças: Linha 61, Linha 60, Linha 59, Linha 58, Linha 57, Linha 56, Linha 55, Linha 54, Linha 53, Linha 52, Linha 51, Linha 50, Linha 49, Linha 48, Linha 47, Linha 46, Linha 45, Linha 44, Linha 43, Linha 42, Linha 41, Linha 40, Linha 39, Linha 38, Linha 37, Linha 36, Linha 35, Linha 34, Linha 33, Linha 32, Linha 31, Linha 30, Linha 29, Linha 28, Linha 27, Linha 26, Linha 25, Linha 24, Linha 23, Linha 22, Linha 21, Linha 20, Linha 19, Linha 18, Linha 17, Linha 16, Linha 15, Linha 14, Linha 13, Linha 12, Linha 11, Linha 10, Linha 9, Linha 8, Linha 7, Linha 6, Linha 5, Linha 4, Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:35:03
+Usuário: Desconhecido editou o arquivo: Login.css por 0 minutos e 28.36 segundos em 31/10/2024 20:35:06
+Usuário: Desconhecido fechou o arquivo: Login.css.git em 31/10/2024 20:35:06
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:35:06
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 5.82 segundos em 31/10/2024 20:35:12
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:12 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:13 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:35:13
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:18 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:35:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:35:19
+Usuário: Desconhecido editou o arquivo: login.tsx por 0 minutos e 14.68 segundos em 31/10/2024 20:35:26
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:35:26
+Usuário: Desconhecido abriu o arquivo: Login.css.git em 31/10/2024 20:35:27
+Usuário: Desconhecido editou o arquivo: Login.css.git por 0 minutos e 3.85 segundos em 31/10/2024 20:35:31
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:31 | Mudanças: Linha 22
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:31 | Mudanças: Linha 22
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:31 | Mudanças: Linha 22
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:35:32
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:36 | Mudanças: Linha 31
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:36 | Mudanças: Linha 31
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:37 | Mudanças: Linha 31
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:35:38
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:39 | Mudanças: Linha 31
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:39 | Mudanças: Linha 31
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:35:40
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:55 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:55 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:56 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:56 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:35:57
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:58 | Mudanças: Linha 13
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:59 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:59 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:35:59 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:00 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:01
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:01 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:02 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:03
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:04 | Mudanças: Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:05 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:05
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:06 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:06 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:06 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:07 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:07
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:08 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:09 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:09
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:10 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:10
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:10 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:11 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:11 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:11 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:11 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:12 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:13 | Mudanças: Linha 16
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:14 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:14
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:34 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:35 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:36
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:36 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:36 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:37 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:37 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:38 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:38 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:38 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:39 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:39 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:39 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:39 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:40 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:41
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:42 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:43 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:43
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:49 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:49 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:49 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:50 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:51 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:51
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:54 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:55 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:55
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:55 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:56
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:56 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:36:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:36:57
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:01 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:01 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:01 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:02 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:02 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:37:03
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:06 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:07 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:37:07
+Usuário: Desconhecido editou o arquivo: Login.css por 1 minutos e 38.46 segundos em 31/10/2024 20:37:09
+Usuário: Desconhecido fechou o arquivo: Login.css.git em 31/10/2024 20:37:09
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:37:09
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 8.27 segundos em 31/10/2024 20:37:18
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:18 | Mudanças: Linha 23
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:18 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:18 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:19 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:19 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:19 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:19 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:37:20
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:22 | Mudanças: Linha 24
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:37:23
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:24 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:37:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:37:25
+Usuário: Desconhecido editou o arquivo: login.tsx por 0 minutos e 9.01 segundos em 31/10/2024 20:37:27
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:37:27
+Usuário: Desconhecido abriu o arquivo: Login.css.git em 31/10/2024 20:37:27
+Usuário: Desconhecido editou o arquivo: Login.css.git por 0 minutos e 1.79 segundos em 31/10/2024 20:37:29
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:29 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:30 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:37:30
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:51 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:37:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:37:52
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:17 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:38:19
+Usuário: Desconhecido editou o arquivo: Login.css por 0 minutos e 55.28 segundos em 31/10/2024 20:38:24
+Usuário: Desconhecido fechou o arquivo: Login.css.git em 31/10/2024 20:38:24
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:38:24
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 7.92 segundos em 31/10/2024 20:38:32
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:38:32
+Usuário: Desconhecido abriu o arquivo: Login.css.git em 31/10/2024 20:38:32
+Usuário: Desconhecido editou o arquivo: Login.css.git por 0 minutos e 1.85 segundos em 31/10/2024 20:38:34
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:34 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:38:35
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:38:38
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:43 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:38:44
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:45 | Mudanças: Linha 12
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:46 | Mudanças: Linha 11
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:38:47
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:52 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:38:53 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:38:53
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:26 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:40:27
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:57 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:57 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:57 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:57 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:58 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:58 | Mudanças: Linha 46
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 31/10/2024 20:40:59 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 31/10/2024 20:40:59
+Usuário: Desconhecido editou o arquivo: Login.css por 4 minutos e 2.72 segundos em 31/10/2024 20:42:37
+Usuário: Desconhecido fechou o arquivo: Login.css.git em 31/10/2024 20:42:37
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:42:37
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 26.69 segundos em 31/10/2024 20:43:04
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:43:04
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js.git em 31/10/2024 20:43:04
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js.git por 0 minutos e 43.37 segundos em 31/10/2024 20:43:48
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js.git em 31/10/2024 20:43:48
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:43:48
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 13.56 segundos em 31/10/2024 20:44:02
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:44:02 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:44:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:44:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:44:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:44:03
+Usuário: Desconhecido editou o arquivo: login.tsx por 8 minutos e 15.64 segundos em 31/10/2024 20:52:17
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 20:52:17
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js.git em 31/10/2024 20:52:18
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js.git por 0 minutos e 19.06 segundos em 31/10/2024 20:52:37
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js.git em 31/10/2024 20:52:37
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 31/10/2024 20:52:37
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 1.36 segundos em 31/10/2024 20:52:38
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:38 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:52:40
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:51 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:52:52
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:53 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 31/10/2024 20:52:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 31/10/2024 20:52:54
+Usuário: Desconhecido editou o arquivo: login.tsx por 12 minutos e 10.32 segundos em 31/10/2024 21:04:49
+Usuário: Desconhecido fechou o arquivo: login.tsx em 31/10/2024 21:04:49
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 31/10/2024 21:04:49
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js.git em 31/10/2024 21:04:49
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js.git por 0 minutos e 0.36 segundos em 31/10/2024 21:04:50
+Usuário: Desconhecido fechou o arquivo: Login.css em 31/10/2024 21:04:50
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js.git em 31/10/2024 21:04:51
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 31/10/2024 21:04:51
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 41.67 segundos em 31/10/2024 21:05:33
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:05:33 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:05:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:05:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:05:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:05:34
+Usuário: Desconhecido abriu o arquivo: AdminPanel.css em 31/10/2024 21:07:12
+Usuário: Desconhecido editou o arquivo: AdminPanel.css por 0 minutos e 0.05 segundos em 31/10/2024 21:07:13
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 31/10/2024 21:07:13
+Usuário: Desconhecido abriu o arquivo: AdminPanel.css.git em 31/10/2024 21:07:13
+Usuário: Desconhecido editou o arquivo: AdminPanel.css.git por 0 minutos e 1.09 segundos em 31/10/2024 21:07:14
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:07:14 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:07:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:07:14 | Mudanças: Linha 84, Linha 83, Linha 82, Linha 81, Linha 80, Linha 79, Linha 78, Linha 77, Linha 76, Linha 75, Linha 74, Linha 73, Linha 72, Linha 71, Linha 70, Linha 69, Linha 68, Linha 67, Linha 66, Linha 65, Linha 64, Linha 63, Linha 62, Linha 61, Linha 60, Linha 59, Linha 58, Linha 57, Linha 56, Linha 55, Linha 54, Linha 53, Linha 52, Linha 51, Linha 50, Linha 49, Linha 48, Linha 47, Linha 46, Linha 45, Linha 44, Linha 43, Linha 42, Linha 41, Linha 40, Linha 39, Linha 38, Linha 37, Linha 36, Linha 35, Linha 34, Linha 33, Linha 32, Linha 31, Linha 30, Linha 29, Linha 28, Linha 27, Linha 26, Linha 25, Linha 24, Linha 23, Linha 22, Linha 21, Linha 20, Linha 19, Linha 18, Linha 17, Linha 16, Linha 15, Linha 14, Linha 13, Linha 12, Linha 11, Linha 10, Linha 9, Linha 8, Linha 7, Linha 6, Linha 5, Linha 4, Linha 3
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:07:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:07:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.css em 31/10/2024 21:07:15
+Usuário: Desconhecido editou o arquivo: AdminPanel.css por 0 minutos e 4.34 segundos em 31/10/2024 21:07:18
+Usuário: Desconhecido fechou o arquivo: AdminPanel.css.git em 31/10/2024 21:07:18
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 31/10/2024 21:07:19
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 3.29 segundos em 31/10/2024 21:07:22
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:07:22 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:07:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:07:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:07:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:07:23
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:08:34 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:08:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:08:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:08:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:08:35
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 1 minutos e 13.15 segundos em 31/10/2024 21:08:35
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 31/10/2024 21:08:35
+Usuário: Desconhecido abriu o arquivo: AdminPanel.css.git em 31/10/2024 21:08:35
+Usuário: Desconhecido editou o arquivo: AdminPanel.css.git por 0 minutos e 3.55 segundos em 31/10/2024 21:08:39
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:08:39 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:08:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:08:39 | Mudanças: Linha 98, Linha 97, Linha 96, Linha 95, Linha 94, Linha 93, Linha 92, Linha 91, Linha 90, Linha 89, Linha 88, Linha 87, Linha 86, Linha 85, Linha 84, Linha 83, Linha 82, Linha 81, Linha 80, Linha 79, Linha 78, Linha 77, Linha 76, Linha 75, Linha 74, Linha 73, Linha 72, Linha 71, Linha 70, Linha 69, Linha 68, Linha 67, Linha 66, Linha 65, Linha 64, Linha 63, Linha 62, Linha 61, Linha 60, Linha 59, Linha 58, Linha 57, Linha 56, Linha 55, Linha 54, Linha 53, Linha 52, Linha 51, Linha 50, Linha 49, Linha 48, Linha 47, Linha 46, Linha 45, Linha 44, Linha 43, Linha 42, Linha 41, Linha 40, Linha 39, Linha 38, Linha 37, Linha 36, Linha 35, Linha 34, Linha 33, Linha 32, Linha 31, Linha 30, Linha 29, Linha 28, Linha 27, Linha 26, Linha 25, Linha 24, Linha 23, Linha 22, Linha 21, Linha 20, Linha 19, Linha 18, Linha 17, Linha 16, Linha 15, Linha 14, Linha 13, Linha 12, Linha 11, Linha 10, Linha 9, Linha 8, Linha 7, Linha 6, Linha 5, Linha 4, Linha 3
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:08:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:08:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.css em 31/10/2024 21:08:40
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:09:14 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:09:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:09:14 | Mudanças: Linha 98, Linha 97, Linha 96, Linha 95, Linha 94, Linha 93, Linha 92, Linha 91, Linha 90, Linha 89, Linha 88, Linha 87, Linha 86, Linha 85, Linha 84, Linha 83, Linha 82, Linha 81, Linha 80, Linha 79, Linha 78, Linha 77, Linha 76, Linha 75, Linha 74, Linha 73, Linha 72, Linha 71, Linha 70, Linha 69, Linha 68, Linha 67, Linha 66, Linha 65, Linha 64, Linha 63, Linha 62, Linha 61, Linha 60, Linha 59, Linha 58, Linha 57, Linha 56, Linha 55, Linha 54, Linha 53, Linha 52, Linha 51, Linha 50, Linha 49, Linha 48, Linha 47, Linha 46, Linha 45, Linha 44, Linha 43, Linha 42, Linha 41, Linha 40, Linha 39, Linha 38, Linha 37, Linha 36, Linha 35, Linha 34, Linha 33, Linha 32, Linha 31, Linha 30, Linha 29, Linha 28, Linha 27, Linha 26, Linha 25, Linha 24, Linha 23, Linha 22, Linha 21, Linha 20, Linha 19, Linha 18, Linha 17, Linha 16, Linha 15, Linha 14, Linha 13, Linha 12, Linha 11, Linha 10, Linha 9, Linha 8, Linha 7, Linha 6, Linha 5, Linha 4, Linha 3
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:09:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.css em 31/10/2024 21:09:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.css em 31/10/2024 21:09:15
+Usuário: Desconhecido editou o arquivo: AdminPanel.css por 0 minutos e 42.11 segundos em 31/10/2024 21:09:21
+Usuário: Desconhecido fechou o arquivo: AdminPanel.css.git em 31/10/2024 21:09:21
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 31/10/2024 21:09:21
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 1.11 segundos em 31/10/2024 21:09:22
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:09:22 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:09:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:09:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:09:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:09:23
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:13:43 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:13:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:13:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:13:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:13:44
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:26 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:27
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:27 | Mudanças: Linha 7
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:28 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:28
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:33 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:34 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:35
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:48 | Mudanças: Linha 35
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:48 | Mudanças: Linha 71, Linha 70, Linha 69, Linha 68, Linha 67, Linha 66, Linha 65, Linha 64, Linha 63, Linha 62, Linha 61, Linha 60, Linha 59, Linha 58, Linha 57, Linha 56, Linha 55, Linha 54, Linha 53, Linha 52, Linha 51, Linha 50, Linha 49, Linha 48, Linha 47, Linha 46, Linha 45, Linha 44, Linha 43, Linha 42, Linha 41, Linha 40, Linha 39, Linha 38, Linha 37, Linha 36
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:15:49
+Usuário: Desconhecido abriu o arquivo: cors.json em 31/10/2024 21:22:58
+Usuário: Desconhecido editou o arquivo: cors.json por 0 minutos e 0.05 segundos em 31/10/2024 21:22:58
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 31/10/2024 21:22:58
+Usuário: Desconhecido abriu o arquivo: cors.json.git em 31/10/2024 21:22:58
+Usuário: Desconhecido editou o arquivo: cors.json.git por 0 minutos e 1.22 segundos em 31/10/2024 21:22:59
+Usuário: Desconhecido editou o arquivo: cors.json em 31/10/2024 21:22:59 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: cors.json em 31/10/2024 21:22:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: cors.json em 31/10/2024 21:22:59 | Mudanças: Linha 8, Linha 7, Linha 6, Linha 5, Linha 4, Linha 3, Linha 2
+Usuário: Desconhecido editou o arquivo: cors.json em 31/10/2024 21:23:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: cors.json em 31/10/2024 21:23:00 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: cors.json em 31/10/2024 21:23:00
+Usuário: Desconhecido editou o arquivo: cors.json por 13 minutos e 32.34 segundos em 31/10/2024 21:36:32
+Usuário: Desconhecido fechou o arquivo: cors.json em 31/10/2024 21:36:32
+Usuário: Desconhecido fechou o arquivo: cors.json.git em 31/10/2024 21:36:32
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 31/10/2024 21:36:32
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 12.09 segundos em 31/10/2024 21:36:44
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:36:44 | Mudanças: Linha 21
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:36:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:36:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 31/10/2024 21:36:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 31/10/2024 21:36:45
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 2 minutos e 31.52 segundos em 31/10/2024 21:39:16
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 31/10/2024 21:39:16
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 31/10/2024 21:39:16
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx em 31/10/2024 21:39:17
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 0.00 segundos em 31/10/2024 21:39:17
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx em 31/10/2024 21:39:17
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx em 31/10/2024 21:39:18
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 0.08 segundos em 31/10/2024 21:39:18
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 31/10/2024 21:39:18
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 31/10/2024 21:39:18
