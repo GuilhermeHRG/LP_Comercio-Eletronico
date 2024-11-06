@@ -1,10 +1,10 @@
-// Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore"; 
-import { getAuth } from "firebase/auth"; // Importa getAuth do Firebase
+import { getAuth } from "firebase/auth"; 
+import { getStorage } from "firebase/storage";  // Adicionei o import do Firebase Storage
 
-// Your web app's Firebase configuration
+// Sua configuração do Firebase
 const firebaseConfig = {
   apiKey: "AIzaSyAWcR7uSpxyqMjdoHWQaXkXbyhegu8ZcZA",
   authDomain: "landing-page-30f5b.firebaseapp.com",
@@ -15,11 +15,12 @@ const firebaseConfig = {
   measurementId: "G-5JL0B82GTV"
 };
 
-// Initialize Firebase
+// Inicializa o Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 const db = getFirestore(app); // Inicializa o Firestore
 const auth = getAuth(app); // Inicializa o Auth
+const storage = getStorage(app); // Inicializa o Storage
 
 // Exporta as variáveis que você precisa
-export { db, analytics, auth }; // Exporte db, analytics e auth
+export { db, analytics, auth, storage };  // Agora também exporta o storage

@@ -2,22 +2,17 @@ import React, { useState } from 'react';
 import './Style.css';
 import perfilJpg from '../assets/perfil.jpeg';
 import { FaLinkedin, FaInstagram } from 'react-icons/fa';
-// @ts-ignore
+//@ts-ignore
 import { db } from '../config/firebaseConfig.js';
-import { collection, addDoc, onSnapshot } from "firebase/firestore"; 
-
-
+import { collection, addDoc, onSnapshot } from "firebase/firestore";
 
 const LandingPage = () => {
-  // Estado para armazenar os dados do formulário
-
   const [formData, setFormData] = useState({
     name: '',
     contact: '',
     message: ''
   });
 
-  // Dados dos serviços e tecnologias
   const servicesData = [
     {
       title: 'Criação de Landing Pages',
@@ -59,75 +54,42 @@ const LandingPage = () => {
   const skills = [
     'UX Design', 'UI Design', 'Product Design', 'Front-End Development', 'Interaction Design', 'No Code',
   ];
-  
+
   const handleChange = (e: any) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
 
-; // ajuste o caminho conforme necessário
-
-// Função para escutar alterações na coleção "contacts"
-const listenToContacts = () => {
-  const contactsRef = collection(db, "contacts");
-
-  // Adicionando um listener
-  const unsubscribe = onSnapshot(contactsRef, (snapshot) => {
-    snapshot.docChanges().forEach((change) => {
-      if (change.type === "added") {
-        console.log("Novo contato: ", change.doc.data());
-      }
-      if (change.type === "modified") {
-        console.log("Contato atualizado: ", change.doc.data());
-      }
-      if (change.type === "removed") {
-        console.log("Contato removido: ", change.doc.data());
-      }
-    });
-  });
-
-  // Retornar a função de desinscrição para remover o listener quando não for mais necessário
-  return unsubscribe;
-};
-
-// Chame esta função em algum lugar do seu código para começar a ouvir
-listenToContacts();
-
-
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
   
     try {
-      // Enviar dados para o Firestore
       await addDoc(collection(db, "contacts"), formData);
   
-      // Preparar a mensagem a ser enviada via WhatsApp
       const messageBody = `Nome: ${formData.name}%0AContato: ${formData.contact}%0AMensagem: ${formData.message}`;
       
-      // Criar o link para enviar a mensagem via WhatsApp
       const whatsappURL = `https://wa.me/5543996138645?text=${messageBody}`;
   
-      // Redirecionar para o WhatsApp
       window.open(whatsappURL, '_blank');
   
       alert("Dados enviados com sucesso! Em breve entraremos em contato.");
   
-      // Limpar os campos do formulário
       setFormData({ name: '', contact: '', message: '' });
     } catch (error) {
       console.error("Erro ao enviar dados: ", error);
       alert("Erro ao enviar dados. Tente novamente.");
     }
   };
-  
-  
-  
-  
-  
+
+  // Função para o botão "Tenho Interesse"
+  const handleInterestClick = (title: string) => {
+    const messageBody = `Tenho Interesse no serviço: ${title}`;
+    const whatsappURL = `https://wa.me/5543996138645?text=${messageBody}`;
+    window.open(whatsappURL, '_blank');
+  };
 
   return (
     <div className="App">
-      {/* Header */}
       <header className="header">
         <img className='headerPerfilImg' src={perfilJpg} alt="Perfil" />
         <div className="language-icons">
@@ -147,7 +109,7 @@ listenToContacts();
             <div className="service-info">
               <h2>{service.title}</h2>
               <p>{service.description}</p>
-              <button>Tenho Interesse</button>
+              <button onClick={() => handleInterestClick(service.title)}>Tenho Interesse</button>
             </div>
           </div>
         ))}
@@ -167,40 +129,40 @@ listenToContacts();
 
       {/* Contact Form */}
       <section className="contact">
-      <h2>Entre em contato comigo</h2>
-      <form className="contact-form" onSubmit={handleSubmit}>
-        <label>
-          Seu Nome:
-          <input 
-            type="text" 
-            name="name" 
-            value={formData.name} 
-            onChange={handleChange} 
-            required 
-          />
-        </label>
-        <label>
-          Seu WhatsApp:
-          <input 
-            type="text" 
-            name="contact" 
-            value={formData.contact} 
-            onChange={handleChange} 
-            required 
-          />
-        </label>
-        <label>
-          Descreva melhor sua ideia:
-          <textarea 
-            name="message" 
-            value={formData.message} 
-            onChange={handleChange} 
-            required 
-          ></textarea>
-        </label>
-        <button type="submit">Enviar</button>
-      </form>
-    </section>
+        <h2>Entre em contato comigo</h2>
+        <form className="contact-form" onSubmit={handleSubmit}>
+          <label>
+            Seu Nome:
+            <input 
+              type="text" 
+              name="name" 
+              value={formData.name} 
+              onChange={handleChange} 
+              required 
+            />
+          </label>
+          <label>
+            Seu WhatsApp:
+            <input 
+              type="text" 
+              name="contact" 
+              value={formData.contact} 
+              onChange={handleChange} 
+              required 
+            />
+          </label>
+          <label>
+            Descreva melhor sua ideia:
+            <textarea 
+              name="message" 
+              value={formData.message} 
+              onChange={handleChange} 
+              required 
+            ></textarea>
+          </label>
+          <button type="submit">Enviar</button>
+        </form>
+      </section>
 
       {/* Footer */}
       <footer className="footer">

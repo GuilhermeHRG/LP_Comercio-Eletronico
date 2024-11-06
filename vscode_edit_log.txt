@@ -5669,3 +5669,242 @@ Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 31/10/2024 21:39:
 Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 9 minutos e 33.59 segundos em 31/10/2024 21:48:52
 Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/11/2024 21:11:21
 Usuário: Desconhecido abriu o arquivo: package.json em 04/11/2024 21:11:28
+Usuário: Desconhecido abriu o arquivo: settings.json em 05/11/2024 23:59:56
+Usuário: Desconhecido editou o arquivo: settings.json por 0 minutos e 0.01 segundos em 05/11/2024 23:59:56
+Usuário: Desconhecido fechou o arquivo: settings.json em 05/11/2024 23:59:56
+Usuário: Desconhecido abriu o arquivo: package.json em 06/11/2024 00:00:02
+Usuário: Desconhecido editou o arquivo: package.json por 3 minutos e 0.01 segundos em 06/11/2024 00:03:02
+Usuário: Desconhecido fechou o arquivo: package.json em 06/11/2024 00:03:02
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx em 06/11/2024 00:03:17
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 06/11/2024 00:03:18
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 39.91 segundos em 06/11/2024 00:03:58
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:04:09 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:04:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:04:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:04:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 06/11/2024 00:04:09
+Usuário: Desconhecido abriu o arquivo: home.tsx em 06/11/2024 00:04:50
+Usuário: Desconhecido editou o arquivo: home.tsx por 0 minutos e 0.05 segundos em 06/11/2024 00:04:51
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 06/11/2024 00:04:51
+Usuário: Desconhecido abriu o arquivo: home.tsx.git em 06/11/2024 00:04:51
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx em 06/11/2024 00:04:52
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 0.00 segundos em 06/11/2024 00:04:52
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx em 06/11/2024 00:04:52
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx em 06/11/2024 00:04:53
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 0.04 segundos em 06/11/2024 00:04:53
+Usuário: Desconhecido fechou o arquivo: home.tsx.git em 06/11/2024 00:04:53
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 06/11/2024 00:04:53
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 26.36 segundos em 06/11/2024 00:05:19
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:05:19 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:05:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:05:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:05:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:05:20
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:07:44 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:07:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:07:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:07:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:07:45
+Usuário: Desconhecido abriu o arquivo: index.d.ts em 06/11/2024 00:08:39
+Usuário: Desconhecido editou o arquivo: index.d.ts por 0 minutos e 0.01 segundos em 06/11/2024 00:08:39
+Usuário: Desconhecido fechou o arquivo: index.d.ts em 06/11/2024 00:08:39
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js em 06/11/2024 00:08:39
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js por 0 minutos e 0.00 segundos em 06/11/2024 00:08:39
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js em 06/11/2024 00:08:39
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js em 06/11/2024 00:08:39
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js por 0 minutos e 0.00 segundos em 06/11/2024 00:08:39
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js em 06/11/2024 00:08:39
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js em 06/11/2024 00:08:40
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js por 0 minutos e 1.81 segundos em 06/11/2024 00:08:41
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 06/11/2024 00:08:41
+Usuário: Desconhecido abriu o arquivo: firebaseConfig.js.git em 06/11/2024 00:08:42
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js.git por 0 minutos e 18.01 segundos em 06/11/2024 00:09:00
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 06/11/2024 00:09:00 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 06/11/2024 00:09:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 06/11/2024 00:09:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js em 06/11/2024 00:09:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: firebaseConfig.js em 06/11/2024 00:09:01
+Usuário: Desconhecido editou o arquivo: firebaseConfig.js por 2 minutos e 18.50 segundos em 06/11/2024 00:11:18
+Usuário: Desconhecido fechou o arquivo: firebaseConfig.js.git em 06/11/2024 00:11:18
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 06/11/2024 00:11:18
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 19.29 segundos em 06/11/2024 00:11:38
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 06/11/2024 00:11:38
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 06/11/2024 00:11:38
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 21.14 segundos em 06/11/2024 00:11:59
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:11:59 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:11:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:12:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:12:00 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 06/11/2024 00:12:00
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 0 minutos e 1.76 segundos em 06/11/2024 00:12:01
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 06/11/2024 00:12:01
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 06/11/2024 00:12:01
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 38.97 segundos em 06/11/2024 00:12:40
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:12:40 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:12:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:12:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:12:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:12:41
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 47.81 segundos em 06/11/2024 00:13:28
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 06/11/2024 00:13:28
+Usuário: Desconhecido abriu o arquivo: AdminPanel.tsx.git em 06/11/2024 00:13:28
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx.git por 0 minutos e 1.38 segundos em 06/11/2024 00:13:30
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:13:30 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:13:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:13:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx em 06/11/2024 00:13:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: AdminPanel.tsx em 06/11/2024 00:13:31
+Usuário: Desconhecido editou o arquivo: AdminPanel.tsx por 0 minutos e 48.26 segundos em 06/11/2024 00:14:18
+Usuário: Desconhecido fechou o arquivo: AdminPanel.tsx.git em 06/11/2024 00:14:18
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 06/11/2024 00:14:18
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 7.11 segundos em 06/11/2024 00:14:25
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:25 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:25 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:26 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:26 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:26 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:26 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:26 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:27 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:28 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:14:28
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:35 | Mudanças: Linha 119
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:14:36
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:46 | Mudanças: Linha 124
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:14:47
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:52 | Mudanças: Linha 122
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:14:53 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:14:53
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:08 | Mudanças: Linha 116
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:15:09
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:13 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:14 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:15:14
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:21 | Mudanças: Linha 115
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:21 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:15:22 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:15:22
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:03 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:03 | Mudanças: Linha 115
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:04 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:04 | Mudanças: Linha 116
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:05 | Mudanças: Linha 122
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:05 | Mudanças: Linha 124
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:05 | Mudanças: Linha 119
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:06 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:06 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:07 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:07
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:10 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:11
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:13 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:14 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:14
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:30 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 119
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 124
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 122
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 116
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 115
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:31 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:32
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:36 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:36 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:37
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:40 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:41
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:42 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:43 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:43 | Mudanças: Linha 115
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:43 | Mudanças: Linha 114
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:44 | Mudanças: Linha 116
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:45 | Mudanças: Linha 122
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:45 | Mudanças: Linha 124
+Usuário: Desconhecido abriu o arquivo: client.d.ts em 06/11/2024 00:16:46
+Usuário: Desconhecido editou o arquivo: client.d.ts por 0 minutos e 0.00 segundos em 06/11/2024 00:16:46
+Usuário: Desconhecido fechou o arquivo: client.d.ts em 06/11/2024 00:16:46
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:46 | Mudanças: Linha 119
+Usuário: Desconhecido abriu o arquivo: index.d.ts em 06/11/2024 00:16:46
+Usuário: Desconhecido editou o arquivo: index.d.ts por 0 minutos e 0.01 segundos em 06/11/2024 00:16:46
+Usuário: Desconhecido fechou o arquivo: index.d.ts em 06/11/2024 00:16:46
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:46 | Mudanças: Linha 117
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:46 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:46 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:47
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:48 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:16:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:16:49
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:46 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:17:47
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:53 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:17:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:17:54
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:25:57 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:25:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:25:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:25:58 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:25:58
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:08 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:26:09
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:09 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:09 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:10 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:26:11
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:12 | Mudanças: Linha 5
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 06/11/2024 00:26:13 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 06/11/2024 00:26:13

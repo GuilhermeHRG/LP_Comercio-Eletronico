@@ -4,10 +4,8 @@ import { auth } from "../../config/firebaseConfig";
 import { useNavigate } from "react-router-dom";
 import "./AdminPanel.css"; // Importe o CSS para estilização
 import { getFirestore, collection, addDoc } from "firebase/firestore"; 
-import { getStorage, ref, uploadBytes, getDownloadURL } from "firebase/storage";
 
 const db = getFirestore();
-const storage = getStorage();
 
 const AdminPanel: React.FC = () => {
   const navigate = useNavigate();
@@ -41,14 +39,10 @@ const AdminPanel: React.FC = () => {
     }
   
     try {
-      // 1. Fazer upload da imagem para o Firebase Storage
-      const storageRef = ref(storage, `images/${image.name}`);
-      await uploadBytes(storageRef, image);
+      // 1. Gerar uma URL para o arquivo de imagem local (no navegador)
+      const imageUrl = URL.createObjectURL(image);
   
-      // 2. Obter a URL de download da imagem
-      const imageUrl = await getDownloadURL(storageRef);
-  
-      // 3. Salvar os dados no Firestore
+      // 2. Salvar os dados no Firestore com a URL da imagem
       await addDoc(collection(db, "posts"), {
         title,
         description,
