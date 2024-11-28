@@ -22,7 +22,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('texture.png'); /* Substitua pelo caminho da sua imagem */
+  background-image: url('texture.png'); 
   opacity: 0.1;
   pointer-events: none;
   z-index: 1; /* Mantém a textura abaixo dos conteúdos */
@@ -36,11 +36,11 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('/mnt/data/Frame.jpg'); /* Caminho ajustado para a imagem */
+  background-image: url('/mnt/data/Frame.jpg'); 
   background-size: cover;
   background-position: center;
   z-index: -1;
-  opacity: 0.7; /* Ajuste a opacidade para mesclar bem com o gradiente */
+  opacity: 0.7; 
 }
 
 /* Animação do gradiente */
@@ -58,26 +58,70 @@ body::before {
 
 /* Header */
 .header {
-  padding: 10% 0; /* Ajuste para porcentagem */
+  padding: 10% 0; 
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), transparent);
 }
 
+/* Estilização para o botão */
+.admin-button {
+  margin-bottom: 20px; /* Corrigido para não ultrapassar a tela */
+  margin-left: 90%;
+  margin-top: 6px;
+  position: absolute;
+  border-radius: 50px; /* Borda mais arredondada */
+  color: white;
+  background-color: #043d24;
+  padding: 5px 20px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Estilo do ícone dentro do botão */
+.admin-button i {
+  margin-right: 8px;
+  font-size: 18px;
+}
+
+/* Efeito de hover */
+.admin-button:hover {
+  background-color: #026e3a; 
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); 
+}
+
+/* Efeito de foco */
+.admin-button:focus {
+  outline: none; /* Remove o contorno padrão */
+  box-shadow: 0 0 0 3px rgba(0, 183, 255, 0.5); /* Adiciona um contorno azul */
+}
+
+
 .headerPerfilImg {
-  width: 30vw; /* Ajuste para largura relativa */
-  height: 30vw; /* Altura relativa */
-  max-width: 150px; /* Limite máximo */
-  max-height: 150px; /* Limite máximo */
+  width: 30vw; 
+  height: 30vw; 
+  max-width: 150px; 
+  max-height: 150px; 
   margin-bottom: 20px;
   object-fit: cover;
   border-radius: 50%;
   backdrop-filter: blur(10px);
   box-shadow: 0 4px 20px rgba(255, 255, 255, 0.5);
 }
+/* h1{
+  width: auto;
+  background-color: #39393964;
+} */
 
 /* Navegação */
 .nav button {
   margin: 0 10px;
-  padding: 2% 4%; /* Ajuste para porcentagem */
+  padding: 2% 4%; 
   background-color: #444;
   color: white;
   border: none;
@@ -95,18 +139,18 @@ body::before {
   overflow: hidden;
   white-space: nowrap;
   width: 100%;
-  position: relative; /* Adicionado para controlar a posição */
+  position: relative; 
 }
 
 .scrolling-icons {
   display: inline-block;
   animation: scroll 15s linear infinite;
-  white-space: nowrap; /* Mantém os ícones em uma linha */
+  white-space: nowrap; 
 }
 
 .language-icons img {
-  width: 10vw; /* Ajuste para largura relativa */
-  height: auto; /* Altura automática */
+  width: 40px; 
+  height: auto; 
   margin: 4px;
   margin-top: 20px;
   background-color: #e8e7e7;
@@ -137,7 +181,7 @@ body::before {
 .service-card {
   background-color: #222;
   border-radius: 15px;
-  height: 280px; /* Altura reduzida */
+  height: auto; /* Altura reduzida */
   overflow: hidden;
   text-align: left;
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.3);
@@ -157,16 +201,18 @@ body::before {
 
 .service-info {
   padding: 10px; /* Padding reduzido */
+  
 }
 
 .service-info h2 {
-  font-size: 1.1rem; /* Tamanho de fonte menor */
+  
   margin-bottom: 6px;
+  font-size: 13px;
 }
 
 .service-info p {
-  font-size: 0.85rem; /* Texto menor */
   margin-bottom: 12px;
+  font-size: 12px;
 }
 
 .service-info button {
@@ -177,6 +223,7 @@ body::before {
   border-radius: 15px;
   cursor: pointer;
   transition: background 0.3s ease;
+  margin-top: 15px;
 }
 
 .service-info button:hover {
@@ -337,19 +384,24 @@ body::before {
 /* Media Queries */
 @media (max-width: 768px) {
   .headerPerfilImg {
-    width: 50vw; /* Aumenta a largura da imagem em telas pequenas */
-    height: 50vw; /* Aumenta a altura da imagem em telas pequenas */
+    width: 50vw; 
+    height: 50vw; 
   }
 
   .service-card {
-    height: 280px; /* Altura reduzida dos cards de serviço */
+    height: 280px; 
   }
 
   .contact-form {
-    padding: 20px; /* Padding reduzido no formulário de contato */
+    padding: 20px; 
   }
 
   .contact-form button {
-    padding: 10px 20px; /* Botão menor no formulário de contato */
+    padding: 10px 20px; 
+  }
+
+  .admin-button {
+    margin-left: 70%;
+    
   }
 }

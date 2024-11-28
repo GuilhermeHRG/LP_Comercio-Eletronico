@@ -51,6 +51,7 @@ const AdminPanel: React.FC = () => {
       });
   
       console.log("Dados salvos com sucesso!");
+      navigate('/')
       
       // Limpar os campos após o envio
       setTitle("");

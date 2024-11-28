@@ -62,18 +62,18 @@ const LandingPage = () => {
 
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
-  
+
     try {
       await addDoc(collection(db, "contacts"), formData);
-  
+
       const messageBody = `Nome: ${formData.name}%0AContato: ${formData.contact}%0AMensagem: ${formData.message}`;
-      
+
       const whatsappURL = `https://wa.me/5543996138645?text=${messageBody}`;
-  
+
       window.open(whatsappURL, '_blank');
-  
+
       alert("Dados enviados com sucesso! Em breve entraremos em contato.");
-  
+
       setFormData({ name: '', contact: '', message: '' });
     } catch (error) {
       console.error("Erro ao enviar dados: ", error);
@@ -90,15 +90,16 @@ const LandingPage = () => {
 
   return (
     <div className="App">
+        <button className="admin-button">
+          <i className="fas fa-cogs"></i> Admin
+        </button>
       <header className="header">
-        <img className='headerPerfilImg' src={perfilJpg} alt="Perfil" />
-        <div className="language-icons">
-          <div className="scrolling-icons">
-            {languages.map((lang, index) => (
-              <img key={index} src={lang.logo} alt={lang.name} title={lang.name} />
-            ))}
-          </div>
-        </div>
+
+        <img className='headerPerfilImg' src='https://github.com/GuilhermeHRG.png' alt="Perfil" />
+        <h1>Guilherme Guelere</h1>
+        <h2>Desenvolvedor Web</h2>
+        <h3>Olá, eu sou Guilherme, tenho 22 anos e sou desenvolvedor Web, comigo sua idéia vira realidade virtual</h3>
+
       </header>
 
       {/* Services */}
@@ -118,6 +119,13 @@ const LandingPage = () => {
       {/* Skills */}
       <section className="skills">
         <h2>Habilidades e Competências</h2>
+        <div className="language-icons">
+          <div className="scrolling-icons">
+            {languages.map((lang, index) => (
+              <img key={index} src={lang.logo} alt={lang.name} title={lang.name} />
+            ))}
+          </div>
+        </div>
         <div className="skill-container">
           {skills.map((skill, index) => (
             <button key={index} className="skill-button">
@@ -133,31 +141,31 @@ const LandingPage = () => {
         <form className="contact-form" onSubmit={handleSubmit}>
           <label>
             Seu Nome:
-            <input 
-              type="text" 
-              name="name" 
-              value={formData.name} 
-              onChange={handleChange} 
-              required 
+            <input
+              type="text"
+              name="name"
+              value={formData.name}
+              onChange={handleChange}
+              required
             />
           </label>
           <label>
             Seu WhatsApp:
-            <input 
-              type="text" 
-              name="contact" 
-              value={formData.contact} 
-              onChange={handleChange} 
-              required 
+            <input
+              type="text"
+              name="contact"
+              value={formData.contact}
+              onChange={handleChange}
+              required
             />
           </label>
           <label>
             Descreva melhor sua ideia:
-            <textarea 
-              name="message" 
-              value={formData.message} 
-              onChange={handleChange} 
-              required 
+            <textarea
+              name="message"
+              value={formData.message}
+              onChange={handleChange}
+              required
             ></textarea>
           </label>
           <button type="submit">Enviar</button>
