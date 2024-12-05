@@ -10627,3 +10627,95 @@ Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:33 | Muda
 Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:34 | Mudanças: 
 Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:34 | Mudanças: 
 Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:34
+Usuário: Desconhecido editou o arquivo: Style.css por 51 minutos e 30.61 segundos em 04/12/2024 21:34:59
+Usuário: Desconhecido editou o arquivo: Style.css.git em 04/12/2024 21:34:59 | Mudanças: Linha 65
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx em 04/12/2024 21:36:13
+Usuário: Desconhecido editou o arquivo: listroutes.tsx por 0 minutos e 0.04 segundos em 04/12/2024 21:36:13
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 21:36:13
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx.git em 04/12/2024 21:36:13
+Usuário: Desconhecido abriu o arquivo: App.jsx em 04/12/2024 21:37:54
+Usuário: Desconhecido editou o arquivo: App.jsx por 0 minutos e 0.02 segundos em 04/12/2024 21:37:54
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx.git em 04/12/2024 21:37:54
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 04/12/2024 21:37:54
+Usuário: Desconhecido editou o arquivo: App.jsx.git por 0 minutos e 7.84 segundos em 04/12/2024 21:38:02
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 04/12/2024 21:38:02
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx.git em 04/12/2024 21:38:02
+Usuário: Desconhecido editou o arquivo: listroutes.tsx.git por 0 minutos e 5.22 segundos em 04/12/2024 21:38:07
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx.git em 04/12/2024 21:38:07
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 04/12/2024 21:38:08
+Usuário: Desconhecido editou o arquivo: App.jsx.git por 0 minutos e 7.84 segundos em 04/12/2024 21:38:16
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx em 04/12/2024 21:38:16
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx em 04/12/2024 21:38:16
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx por 0 minutos e 0.16 segundos em 04/12/2024 21:38:16
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 04/12/2024 21:38:16
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx.git em 04/12/2024 21:38:16
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx.git por 1 minutos e 52.85 segundos em 04/12/2024 21:40:09
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx.git em 04/12/2024 21:40:09
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 04/12/2024 21:40:09
+Usuário: Desconhecido editou o arquivo: App.jsx.git por 0 minutos e 1.21 segundos em 04/12/2024 21:40:11
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:40:11 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:40:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:40:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:40:12 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: App.jsx em 04/12/2024 21:40:12
+Usuário: Desconhecido editou o arquivo: App.jsx por 0 minutos e 7.33 segundos em 04/12/2024 21:40:18
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 04/12/2024 21:40:18
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx.git em 04/12/2024 21:40:18
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx.git por 0 minutos e 1.23 segundos em 04/12/2024 21:40:19
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:40:19 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:40:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:40:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:40:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 04/12/2024 21:40:20
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx por 0 minutos e 20.49 segundos em 04/12/2024 21:40:40
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx.git em 04/12/2024 21:40:40
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 04/12/2024 21:40:40
+Usuário: Desconhecido editou o arquivo: App.jsx.git por 1 minutos e 41.92 segundos em 04/12/2024 21:42:22
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 04/12/2024 21:42:22
+Usuário: Desconhecido abriu o arquivo: privateRoute.tsx.git em 04/12/2024 21:42:23
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx.git por 0 minutos e 1.04 segundos em 04/12/2024 21:42:24
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:42:24 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:42:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:42:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx em 04/12/2024 21:42:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: privateRoute.tsx em 04/12/2024 21:42:25
+Usuário: Desconhecido editou o arquivo: privateRoute.tsx por 0 minutos e 12.16 segundos em 04/12/2024 21:42:36
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx.git em 04/12/2024 21:42:36
+Usuário: Desconhecido abriu o arquivo: App.jsx.git em 04/12/2024 21:42:36
+Usuário: Desconhecido editou o arquivo: App.jsx.git por 0 minutos e 1.40 segundos em 04/12/2024 21:42:38
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:42:38 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:42:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:42:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: App.jsx em 04/12/2024 21:42:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: App.jsx em 04/12/2024 21:42:39
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx em 04/12/2024 21:42:39
+Usuário: Desconhecido editou o arquivo: listroutes.tsx por 0 minutos e 0.02 segundos em 04/12/2024 21:42:39
+Usuário: Desconhecido fechou o arquivo: App.jsx.git em 04/12/2024 21:42:39
+Usuário: Desconhecido abriu o arquivo: listroutes.tsx.git em 04/12/2024 21:42:40
+Usuário: Desconhecido editou o arquivo: listroutes.tsx.git por 1 minutos e 45.60 segundos em 04/12/2024 21:44:25
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:25 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 04/12/2024 21:44:26
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:36 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:36 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:36 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:36 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:36 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 04/12/2024 21:44:37
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:37 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:37 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 04/12/2024 21:44:38
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:39 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:40 | Mudanças: Linha 15
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 04/12/2024 21:44:41

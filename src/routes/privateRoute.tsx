@@ -1,17 +1,14 @@
-import React from 'react';
-import { Route, Navigate } from "react-router-dom";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from 'react';
+import { Navigate } from "react-router-dom";
 // @ts-ignore
 import { auth } from "../config/firebaseConfig"; // Ajuste o caminho se necessário
-import { User } from 'firebase/auth'; // Importando o tipo User da biblioteca
+import { User } from 'firebase/auth';
 
-// Definindo a interface para os props do PrivateRoute
 interface PrivateRouteProps {
-  component: React.ComponentType<any>;
-  [key: string]: any; // Para aceitar outros props
+  children: React.ReactNode;
 }
 
-function PrivateRoute({ component: Component, ...rest }: PrivateRouteProps) {
+function PrivateRoute({ children }: PrivateRouteProps) {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [loading, setLoading] = useState(true);
 
@@ -20,17 +17,12 @@ function PrivateRoute({ component: Component, ...rest }: PrivateRouteProps) {
       setIsAuthenticated(!!user);
       setLoading(false);
     });
-    return unsubscribe; // Limpeza do listener ao desmontar o componente
+    return unsubscribe;
   }, []);
 
-  if (loading) return <div>Loading...</div>; // Mostra carregando enquanto verifica a autenticação
+  if (loading) return <div>Verificando autenticação...</div>;
 
-  return (
-    <Route
-      {...rest}
-      element={isAuthenticated ? <Component {...rest} /> : <Navigate to="/login" />}
-    />
-  );
+  return isAuthenticated ? <>{children}</> : <Navigate to="/login" replace />;
 }
 
 export default PrivateRoute;

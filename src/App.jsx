@@ -1,4 +1,5 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import LandingPage from './components/LandingPage';
 import Login from "./Login";
 import AdminPanel from "./AdminPanel";
@@ -8,12 +9,24 @@ function App() {
   return (
     <div className="App">
       <Router>
-      <Switch>
-        <Route path="/login" component={Login} />
-        <PrivateRoute path="/admin" component={AdminPanel} />
-      <LandingPage />
-      </Switch>
-    </Router>
+        <Routes>
+          {/* Rota para Login */}
+          <Route path="/login" element={<Login />} />
+
+          {/* Rota privada para Admin */}
+          <Route
+            path="/admin"
+            element={
+              <PrivateRoute>
+                <AdminPanel />
+              </PrivateRoute>
+            }
+          />
+
+          {/* Página inicial */}
+          <Route path="/" element={<LandingPage />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
