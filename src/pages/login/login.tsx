@@ -25,8 +25,9 @@ const Login: React.FC = () => {
   return (
     <div className="main">
       <div className="login-container">
-        <h2>Login</h2>
+        <h1>Faça login para acessar o painel administrativo</h1>
         <form onSubmit={handleLogin} className="login-form">
+        <h2>Login</h2>
           <input
             type="email"
             placeholder="Email"

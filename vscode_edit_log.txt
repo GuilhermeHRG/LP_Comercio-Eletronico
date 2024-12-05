@@ -10719,3 +10719,184 @@ Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:40 |
 Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:41 | Mudanças: 
 Usuário: Desconhecido editou o arquivo: listroutes.tsx em 04/12/2024 21:44:41 | Mudanças: 
 Usuário: Desconhecido salvou o arquivo: listroutes.tsx em 04/12/2024 21:44:41
+Usuário: Desconhecido editou o arquivo: listroutes.tsx por 1 minutos e 40.04 segundos em 04/12/2024 21:46:05
+Usuário: Desconhecido editou o arquivo: listroutes.tsx.git em 04/12/2024 21:46:05 | Mudanças: Linha 1
+Usuário: Desconhecido editou o arquivo: listroutes.tsx.git por 2 minutos e 43.11 segundos em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: home.tsx em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: index.html em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: Style.css em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: App.jsx em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: privateRoute.tsx em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx em 04/12/2024 21:48:48
+Usuário: Desconhecido fechou o arquivo: listroutes.tsx.git em 04/12/2024 21:48:48
+Usuário: Desconhecido abriu o arquivo: login.tsx em 04/12/2024 21:48:55
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 04/12/2024 21:48:55
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 5.37 segundos em 04/12/2024 21:49:01
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:01 | Mudanças: Linha 27
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:02 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:49:02
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:04 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:04 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:04 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:05 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:49:05
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:06 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:06 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:06 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:06 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:07 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:08 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:08 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:08 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:09 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:09 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:10 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:10 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:10 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:10 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:11 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:11 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:11 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:12 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:12 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:12 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:12 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:12 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:12 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:13 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:13 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:13 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:13 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:14 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:14 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:14 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:15 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:15 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:16 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:16 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:16 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:16 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:16 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:17 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:17 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:17 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:17 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:17 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:17 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:18 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:18 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:18 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:49:19
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:29 | Mudanças: Linha 29, Linha 29
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:49:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:49:31
+Usuário: Desconhecido abriu o arquivo: Login.css em 04/12/2024 21:49:38
+Usuário: Desconhecido editou o arquivo: Login.css por 0 minutos e 0.04 segundos em 04/12/2024 21:49:38
+Usuário: Desconhecido fechou o arquivo: login.tsx.git em 04/12/2024 21:49:38
+Usuário: Desconhecido abriu o arquivo: Login.css.git em 04/12/2024 21:49:39
+Usuário: Desconhecido editou o arquivo: Login.css.git por 0 minutos e 5.42 segundos em 04/12/2024 21:49:44
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:44 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 04/12/2024 21:49:45
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:45 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:45 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:45 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:46 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:46 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:46 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:47 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 04/12/2024 21:49:47
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:47 | Mudanças: Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 04/12/2024 21:49:48
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 4, Linha 4, Linha 4
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 5, Linha 5
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 6, Linha 6, Linha 6
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 7, Linha 7
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 8, Linha 8
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 9, Linha 9
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:54 | Mudanças: Linha 10, Linha 10
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:55 | Mudanças: Linha 11, Linha 11
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:55 | Mudanças: Linha 12, Linha 12
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:55 | Mudanças: Linha 13, Linha 13, Linha 13
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:55 | Mudanças: Linha 14, Linha 14
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:56 | Mudanças: Linha 15, Linha 15, Linha 15
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 04/12/2024 21:49:57
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:49:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 04/12/2024 21:49:57
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:00 | Mudanças: Linha 2
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:01 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:01 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:01 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:01 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:02 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:02 | Mudanças: Linha 3
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Login.css em 04/12/2024 21:50:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Login.css em 04/12/2024 21:50:03
+Usuário: Desconhecido editou o arquivo: Login.css por 0 minutos e 22.98 segundos em 04/12/2024 21:50:07
+Usuário: Desconhecido fechou o arquivo: Login.css.git em 04/12/2024 21:50:07
+Usuário: Desconhecido abriu o arquivo: login.tsx.git em 04/12/2024 21:50:07
+Usuário: Desconhecido editou o arquivo: login.tsx.git por 0 minutos e 16.37 segundos em 04/12/2024 21:50:24
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:24 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:50:25
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:26 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:50:27
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:27 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:28 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:50:28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:29 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:30 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:30 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:30 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:30 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:31 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:31 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:31 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:32 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:32 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:32 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:32 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:33 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:50:33
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:34 | Mudanças: Linha 28
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: login.tsx em 04/12/2024 21:50:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: login.tsx em 04/12/2024 21:50:34

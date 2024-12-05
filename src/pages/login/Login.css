@@ -1,5 +1,6 @@
 /* Login.css */
 .login-container {
+    text-align: center;
     background-color: #00244b; /* Cor de fundo principal */
 }
 
@@ -13,6 +14,7 @@
 }
 
 .login-form {
+    color: #00244b;
     display: flex;
     flex-direction: column;
     justify-content: center;
