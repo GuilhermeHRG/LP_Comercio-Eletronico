@@ -296,9 +296,9 @@ background-color: #1a1a1a54;
 
 .contact-form {
   display: flex;
-  
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  flex-direction: column;
   gap: 20px;
 }
 
@@ -412,7 +412,15 @@ background-color: #1a1a1a54;
   }
 
   .contact-form {
+    justify-content: center;
+    align-items: center;
     padding: 20px; 
+  }
+  .contact-form input{
+    max-width: 90%;
+  }
+  .contact-form textarea{
+    max-width: 90%;
   }
 
   .contact-form button {
