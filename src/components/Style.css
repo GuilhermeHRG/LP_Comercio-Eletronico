@@ -62,6 +62,8 @@ body::before {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), transparent);
 }
 
+
+
 /* Estilização para o botão */
 .admin-button {
   margin-bottom: 20px; /* Corrigido para não ultrapassar a tela */
@@ -86,6 +88,7 @@ body::before {
 /* Estilo do ícone dentro do botão */
 .admin-button i {
   margin-right: 8px;
+  color: white;
   font-size: 18px;
 }
 
@@ -132,6 +135,15 @@ body::before {
 
 .nav button:hover {
   background-color: #666;
+}
+
+.about{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+background-color: #1a1a1a54;
 }
 
 /* Ícones de linguagem com rolagem */
@@ -375,6 +387,13 @@ body::before {
   text-decoration: none;
   transition: color 0.3s ease, transform 0.3s ease;
 }
+
+.logoCopy img {
+  width: 6rem;
+  height: 6rem;
+  mix-blend-mode: screen; 
+}
+
 
 .social-links a:hover {
   color: #00ff8b;

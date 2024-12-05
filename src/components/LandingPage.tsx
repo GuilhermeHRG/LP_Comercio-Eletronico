@@ -5,6 +5,8 @@ import { FaLinkedin, FaInstagram } from 'react-icons/fa';
 //@ts-ignore
 import { db } from '../config/firebaseConfig.js';
 import { collection, addDoc, onSnapshot } from "firebase/firestore";
+import { Link } from 'react-router-dom';
+import logo from "../assets/logo.jpg"
 
 const LandingPage = () => {
   const [formData, setFormData] = useState({
@@ -90,15 +92,23 @@ const LandingPage = () => {
 
   return (
     <div className="App">
-        <button className="admin-button">
-          <i className="fas fa-cogs"></i> Admin
-        </button>
+      <button className="admin-button">
+        <Link to="/admin" >
+          <i className="fas fa-cogs "></i> 
+          
+        </Link>
+
+      </button>
       <header className="header">
 
+        
         <img className='headerPerfilImg' src='https://github.com/GuilhermeHRG.png' alt="Perfil" />
+        <div className="about">
+
         <h1>Guilherme Guelere</h1>
         <h2>Desenvolvedor Web</h2>
-        <h3>Olá, eu sou Guilherme, tenho 22 anos e sou desenvolvedor Web, comigo sua idéia vira realidade virtual</h3>
+        <h3>Comigo sua idéia vira realidade virtual</h3>
+        </div>
 
       </header>
 
@@ -186,7 +196,10 @@ const LandingPage = () => {
             <p>@guilherme.guelere</p>
           </a>
         </div>
+        <div className="logoCopy">
+          <img src={logo} alt="" />
         <p>Copyright © 2024 Guilherme Guelere</p>
+        </div>
       </footer>
     </div>
   );

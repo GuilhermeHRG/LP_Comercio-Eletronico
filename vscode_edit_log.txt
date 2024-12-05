@@ -9058,3 +9058,1572 @@ Usuário: Desconhecido editou o arquivo: COMMIT_EDITMSG.git por 0 minutos e 2.40
 Usuário: Desconhecido fechou o arquivo: COMMIT_EDITMSG em 27/11/2024 22:17:12
 Usuário: Desconhecido fechou o arquivo: COMMIT_EDITMSG.git em 27/11/2024 22:17:12
 Usuário: Desconhecido abriu o arquivo: Style.css.git em 27/11/2024 22:17:12
+Usuário: Desconhecido abriu o arquivo: settings.json em 04/12/2024 19:22:08
+Usuário: Desconhecido editou o arquivo: settings.json por 0 minutos e 0.07 segundos em 04/12/2024 19:22:08
+Usuário: Desconhecido fechou o arquivo: settings.json em 04/12/2024 19:22:08
+Usuário: Desconhecido abriu o arquivo: package.json em 04/12/2024 19:22:13
+Usuário: Desconhecido abriu o arquivo: home.tsx em 04/12/2024 19:23:15
+Usuário: Desconhecido abriu o arquivo: home.tsx.git em 04/12/2024 19:23:15
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx em 04/12/2024 19:23:33
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 0.00 segundos em 04/12/2024 19:23:33
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx em 04/12/2024 19:23:33
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx em 04/12/2024 19:23:33
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 0.16 segundos em 04/12/2024 19:23:34
+Usuário: Desconhecido fechou o arquivo: home.tsx.git em 04/12/2024 19:23:34
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 19:23:34
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 29.47 segundos em 04/12/2024 19:24:03
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:03 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:04 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:05 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:06
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:07 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:08 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:08
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:09 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:09 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:10 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:10
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:11 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:11 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:11 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:12 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:13
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:16 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:17 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:17
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:30 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:30 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:30 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:31 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:31 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:31 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:31 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:31 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:32
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:40 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:40 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:41
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:48 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:49
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:50 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:51 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:51
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:53 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:24:54
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:56 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:57 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:57 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:57 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:58 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:58 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:24:59 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:00 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:00
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:00 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:01
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:02 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:02 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:02 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:02 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:03
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:03 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:04 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:05 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:05 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:05 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:06
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 1 minutos e 9.84 segundos em 04/12/2024 19:25:13
+Usuário: Desconhecido fechou o arquivo: package.json em 04/12/2024 19:25:13
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:14 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:14 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:15
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:17 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:17 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:17 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:18
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:20 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:21 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:21
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:23 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:24
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:35 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:36
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:39 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:40
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:41 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:42 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:42 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:42 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:43 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:43
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:45 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:46 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:46
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:48 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:49
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:49 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:50 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:50 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:51 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:51
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:51 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:51 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:52 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:52 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:25:53 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:25:53
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:06 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:07 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:07 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:08 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:08 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:09
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:10 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:11
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:12 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:13 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:13 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:14 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:14
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:15 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:16 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:16
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:17 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:18
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:19 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:20
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:21 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:22 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:22 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:22 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:22 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:23
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:31 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:32
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:33 | Mudanças: Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:26:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:26:35
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:03 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:03 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:04 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:04
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:08 | Mudanças: Linha 98, Linha 96, Linha 95, Linha 93
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:09
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:13 | Mudanças: Linha 94
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:14 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:15
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:15
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:23 | Mudanças: Linha 96, Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:24
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:34 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:35
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:45 | Mudanças: Linha 95, Linha 95
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:27:46 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:27:46
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:05 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:28:06
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:10 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:10 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:10 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:10 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:12 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:28:12
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:13 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:13 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:13 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:14 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:28:14
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:15 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:28:16 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:28:16
+Usuário: Desconhecido abriu o arquivo: Style.css em 04/12/2024 19:28:18
+Usuário: Desconhecido editou o arquivo: Style.css por 0 minutos e 0.03 segundos em 04/12/2024 19:28:18
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 19:28:18
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 19:28:19
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 16.68 segundos em 04/12/2024 19:28:35
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:35 | Mudanças: Linha 77
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:28:37
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:37 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:37 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:37 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:38 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:38 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:28:40
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:40 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:40 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:28:41
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:51 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:28:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:28:52
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:01 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:01 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:01 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:01 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:01 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:02 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:29:02
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:08 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:08 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:29:09
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:16 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:16 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:18 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:18 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:29:18
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:18 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:18 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:29:19
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:43 | Mudanças: Linha 90
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:44 | Mudanças: Linha 91
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:44 | Mudanças: Linha 91
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:29:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:29:45
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:17 | Mudanças: Linha 91
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:30:18
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:29 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:30 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:30 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:30 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:31 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:31 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:30:32
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:33 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:33 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:33 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:34 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:34 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:34 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:35 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:30:36
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:38 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:38 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:30:39
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:47 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:30:48
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:52 | Mudanças: Linha 93
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:52 | Mudanças: Linha 93
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:30:53 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:30:53
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:00 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:00 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:31:01
+Usuário: Desconhecido editou o arquivo: Style.css por 2 minutos e 35.64 segundos em 04/12/2024 19:31:11
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 19:31:11
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 19:31:11
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 4.98 segundos em 04/12/2024 19:31:16
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:16 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:17 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:17
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:18 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:19
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:30 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:31
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:33 | Mudanças: Linha 96
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:34
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:35 | Mudanças: Linha 97
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:36
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:37 | Mudanças: Linha 97
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:39
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:40 | Mudanças: Linha 97
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:31:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:31:41
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 27.61 segundos em 04/12/2024 19:31:44
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 19:31:44
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 19:31:44
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 4.26 segundos em 04/12/2024 19:31:49
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:49 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:31:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:31:50
+Usuário: Desconhecido editou o arquivo: Style.css por 0 minutos e 8.97 segundos em 04/12/2024 19:31:58
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 19:31:58
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 19:31:58
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 7.30 segundos em 04/12/2024 19:32:05
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 19:32:05
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 19:32:06
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 2.92 segundos em 04/12/2024 19:32:09
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:09 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:09 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:10 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:10
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:13 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:14 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:14
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:17 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:18
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:28 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:28 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:29 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:30 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:30
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:30 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:31
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:35 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:36
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:36 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:37 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:38
+Usuário: Desconhecido editou o arquivo: Style.css por 0 minutos e 34.00 segundos em 04/12/2024 19:32:43
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 19:32:43
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 19:32:43
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 4.28 segundos em 04/12/2024 19:32:47
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:32:47 | Mudanças: Linha 97
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:32:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:32:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:32:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:32:48
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 2.13 segundos em 04/12/2024 19:32:49
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 19:32:49
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 19:32:50
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 4.29 segundos em 04/12/2024 19:32:54
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:54 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:55 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:55
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:56 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:56 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:57 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:58
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 93
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 93
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 92
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 91
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 91
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 91
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:58 | Mudanças: Linha 90
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:59 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:32:59
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:32:59 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 78
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:00 | Mudanças: Linha 77
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:33:01
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: Linha 88
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:35 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:36 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:36 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:37 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:37 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:37 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:38 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:38 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:33:39
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:43 | Mudanças: Linha 89
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:33:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:33:44
+Usuário: Desconhecido editou o arquivo: Style.css por 2 minutos e 13.22 segundos em 04/12/2024 19:35:07
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 19:35:07
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 19:35:07
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 15.71 segundos em 04/12/2024 19:35:23
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:23 | Mudanças: Linha 103
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:24
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:25 | Mudanças: Linha 104
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:26
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:27 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:28 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:28 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:29 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:29 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:29 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:30 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:30
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:30 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:31
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:33 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:34 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:34 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:35 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:35 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:36
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:36 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:37
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:37 | Mudanças: Linha 105
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:39
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:43 | Mudanças: Linha 110, Linha 107, Linha 106
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 19:35:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 19:35:45
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 0 minutos e 24.47 segundos em 04/12/2024 19:35:48
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 19:35:48
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 19:35:48
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 3.22 segundos em 04/12/2024 19:35:51
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:51 | Mudanças: Linha 64
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:51 | Mudanças: Linha 65
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:52 | Mudanças: Linha 66
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:35:52
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:53 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:35:53
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:54 | Mudanças: Linha 66
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:35:55 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:35:55
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:03 | Mudanças: Linha 138
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:03 | Mudanças: Linha 139
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:04 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:05 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:05
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:07 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:07 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:07 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:07 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:07 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:08 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:08 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:09 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:10 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:10
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:11 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:11 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:11 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:11 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:12 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:13 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:13
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:14 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:15
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:23 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:24
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:27 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:28 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:28
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:29 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:30 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:30 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:31 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:31
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:32 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:33 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:33
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:36 | Mudanças: Linha 140
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:37
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:39 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:39 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:40 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:41
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:43 | Mudanças: Linha 141
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:44 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:44
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:48 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:48 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:49
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:51 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:52
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:53 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:36:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:36:54
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:00 | Mudanças: Linha 142
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:01 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:01 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:02 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:37:03
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:03 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:04 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:05 | Mudanças: Linha 143
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:37:06
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:06 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:07 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:07 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:07 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:07 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:08 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:37:08
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:09 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:37:11
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:21 | Mudanças: Linha 144
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:37:22 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:37:22
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:43 | Mudanças: Linha 145
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:43 | Mudanças: Linha 145
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:44 | Mudanças: Linha 145
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:45:45
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:49 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:49 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:45:50
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:57 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:45:58 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:45:58
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:05 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:06
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:09 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:09 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:09 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:09 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:10 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:10 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:11 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:11
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:14 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:14 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:15
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:16 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:16 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:17 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:17
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:18 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:19
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:28 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:29 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:30 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:30
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:31 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:31 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:31 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:31 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:31 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:46:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:46:32
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:01 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:02 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:02 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:03 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:03
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:13 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:13 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:14 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:14 | Mudanças: Linha 148
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:15
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:37 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:38
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:47 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:48
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:51 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:52
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:53 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:53 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:54
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:56 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:57
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:58 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:47:59 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:47:59
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:49:51 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:49:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:49:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:49:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:49:52
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:33 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:50:34
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:34 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:50:35
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:47 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:48 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:48 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:48 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:49 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:50 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:50:50
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:53 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:50:54
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:55 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:56 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:50:56
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:59 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:59 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:50:59 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:00 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:00 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:00 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:00 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:01 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:02 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:51:02
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:03 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:04 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:04 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:04 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:04 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:04 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:04 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:05 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:05 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:06 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:06 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:06 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:07 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:51:08 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:51:08
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:23 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:59:24
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:31 | Mudanças: Linha 147
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:59:32
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:39 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 19:59:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 19:59:40
+Usuário: Desconhecido editou o arquivo: Style.css por 24 minutos e 29.44 segundos em 04/12/2024 20:00:21
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 20:00:21
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 20:00:21
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 11.89 segundos em 04/12/2024 20:00:33
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:33 | Mudanças: Linha 109
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:00:34
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:34 | Mudanças: Linha 109
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:35 | Mudanças: Linha 109
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:00:36
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:37 | Mudanças: Linha 109
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:37 | Mudanças: Linha 109
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:00:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:00:38
+Usuário: Desconhecido abriu o arquivo: index.html em 04/12/2024 20:15:54
+Usuário: Desconhecido editou o arquivo: index.html por 0 minutos e 0.05 segundos em 04/12/2024 20:15:54
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 20:15:54
+Usuário: Desconhecido abriu o arquivo: index.html.git em 04/12/2024 20:15:55
+Usuário: Desconhecido editou o arquivo: index.html.git por 0 minutos e 5.47 segundos em 04/12/2024 20:16:00
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:00 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:00 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:01 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:01 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:01 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:01 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:02 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:02 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:16:02
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:03 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:03 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:05 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:16:05
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:37 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:16:38
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:50 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:51 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:16:51
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:57 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:57 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:58 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:58 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:16:58
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:59 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:16:59 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:00 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:00 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:17:01
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:25 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:25 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:26 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:17:27
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:31 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:31 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:17:32
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:34 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:17:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:17:35
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:04 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:05 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:05
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:16 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:18
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:23 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:24
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:33 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:33 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:33 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:33 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:34
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:40 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:40 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:41 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:41
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:47 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:48 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:48
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:50 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:50 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:50 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:50 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:51 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:51 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:18:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:18:52
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:42 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:42 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:42 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:42 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:43 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:40:43
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:44 | Mudanças: Linha 6
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:44 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:45 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: index.html em 04/12/2024 20:40:45 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: index.html em 04/12/2024 20:40:45
+Usuário: Desconhecido editou o arquivo: index.html por 25 minutos e 1.59 segundos em 04/12/2024 20:41:02
+Usuário: Desconhecido fechou o arquivo: index.html.git em 04/12/2024 20:41:02
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 20:41:02
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 17.29 segundos em 04/12/2024 20:41:19
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:19 | Mudanças: Linha 197
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:20 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:21 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:21 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:22 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:23
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:23 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:24
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:24 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:25 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:25 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:25 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:26
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:26 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:26 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:27 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:27 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:28 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:28 | Mudanças: Linha 198
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:29 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:29
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:30 | Mudanças: Linha 201, Linha 200, Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:31
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:31 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:32 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:33 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:34
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:34 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:34 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:35 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:35 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:35
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:37 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:38
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:39 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:40
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:41 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:41 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:42 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:42 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:43 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:44 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:44 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:45 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:45 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:45 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:45 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:46 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:46 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:46
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:48 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:48 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:49 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:49 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:49
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:49 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:50 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:50 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:50 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:50 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:51 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:51
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:51 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:52
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:53 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:53 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:53 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:53 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:54 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:41:54 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:41:54
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:05 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:05 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:06 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:06 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:06
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:07 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:07 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:08 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:08 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:09 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:09 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:09 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:09 | Mudanças: Linha 199
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:10 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:10 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:10
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:17 | Mudanças: Linha 8
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:18 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:18
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:18 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:18 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:18 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:19 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:19 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:19 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:19 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:19 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:20
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:20 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:20 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:21 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:21 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:21 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:22 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:22 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:22 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:22 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:22 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:24
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:24 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:25
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:26 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:27 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:27
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:27 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:28 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:29 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:29
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:31 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:32 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:33 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:33 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:33 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:33 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:34 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:34 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:34 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:35 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:35 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:36 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:37
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:38 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:39
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:39 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:40 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:40 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:40 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:40 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:41 | Mudanças: Linha 9
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx em 04/12/2024 20:42:42 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: LandingPage.tsx em 04/12/2024 20:42:42
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx por 1 minutos e 47.69 segundos em 04/12/2024 20:43:07
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 20:43:07
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 20:43:08
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 9.27 segundos em 04/12/2024 20:43:17
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:17 | Mudanças: Linha 390
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:17 | Mudanças: Linha 391
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:18 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:19 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:19 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:19
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:20 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:20 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:20 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:20 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:21 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:21
+Usuário: Desconhecido editou o arquivo: Style.css por 0 minutos e 5.44 segundos em 04/12/2024 20:43:22
+Usuário: Desconhecido fechou o arquivo: Style.css.git em 04/12/2024 20:43:22
+Usuário: Desconhecido abriu o arquivo: LandingPage.tsx.git em 04/12/2024 20:43:23
+Usuário: Desconhecido editou o arquivo: LandingPage.tsx.git por 0 minutos e 3.78 segundos em 04/12/2024 20:43:26
+Usuário: Desconhecido fechou o arquivo: LandingPage.tsx.git em 04/12/2024 20:43:26
+Usuário: Desconhecido abriu o arquivo: Style.css.git em 04/12/2024 20:43:27
+Usuário: Desconhecido editou o arquivo: Style.css.git por 0 minutos e 1.96 segundos em 04/12/2024 20:43:29
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:29 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:30 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:30 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:30
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:30 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:30 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:31
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:33 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:33 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:34
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:34 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:35 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:35 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:35 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:36 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:36
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:36 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:38 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:38
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:38 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:38 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:38 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:39 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:39
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:39 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:39 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:40 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:40 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:40
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:42 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:43 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:43 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:43
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:51 | Mudanças: Linha 394, Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:51 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:51 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:51 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:51 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:52 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:52 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:52
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:55 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:55 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:55 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:56 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:56 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:56 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:43:57
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:59 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:59 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:43:59 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:00 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:00 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:01 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:01 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:01
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:04 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:04 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:05 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:05 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:06 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:06 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:06 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:07 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:07
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:11 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:12 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:12 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:12 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:13 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:13 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:13 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:13 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:14 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:15 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:15
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:21 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:21 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:23 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:23
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:23 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:23 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:24 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:24 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:25 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:25
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:27 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:27 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:27 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:27 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:29 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:29
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:56 | Mudanças: Linha 392
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:56 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:57 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:44:57 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:44:57
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:07 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:07 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:08 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:08
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:08 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:08 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:09 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:09 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:09
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:11 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:11 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:12 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:12 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:12
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:15 | Mudanças: Linha 395
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:15 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:16 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:16 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:16
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:28 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:28 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:28 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:29 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:29 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:29
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:30 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:30 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:30 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:31
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:32 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:32 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:32 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:33 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:33
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:36 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:36 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:36 | Mudanças: Linha 393
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:37 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:37 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:37
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:41 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:41 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:41 | Mudanças: Linha 394
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:42 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 20:45:42 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 20:45:42
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:17 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:17 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:17 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:17 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:17 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:17 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:18 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:18 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:18 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:18 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:18 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:19 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:20 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:20
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:20 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:20 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:20 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:21 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:22 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:22
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:22 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:22 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:22 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:23 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:24 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:24 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:24
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:25 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:25 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:26 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:26 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:26
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:28 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:28 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:29 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:29 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:30 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:31 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:31 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:31
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:33 | Mudanças: Linha 146
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:33 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:34 | Mudanças: 
+Usuário: Desconhecido editou o arquivo: Style.css em 04/12/2024 21:34:34 | Mudanças: 
+Usuário: Desconhecido salvou o arquivo: Style.css em 04/12/2024 21:34:34
